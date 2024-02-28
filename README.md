@@ -1,6 +1,8 @@
-dhcp4client 
+dhcp4client [![GoDoc](https://godoc.org/github.com/d2g/dhcp4client?status.svg)](http://godoc.org/github.com/d2g/dhcp4client.v2) 
 ===========
 
-Please use the [**v2** branch][v2] for all projects.
+DHCP Client
 
-[v2]: https://github.com/d2g/dhcp4client/tree/v2
+
+###### Thanks to:
+@eyakubovich For AF_PACKET support.
